@@ -6,3 +6,6 @@
 3. O sistema deve permitir operações com dois oui mais números
 4. O usuário deve conseguir visualizar as operações e limpar elas
 5. O sistem deve ter a documentação tendo o print da interface, listas dos requisitos e informações de funcionamento todas no readme.md
+
+##Abrir o protótipo
+[Abrir Protótipo](./prototipo.jpg)
