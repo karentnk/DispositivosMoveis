@@ -6,7 +6,7 @@ import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
 export default function App() {
   const [contador, setContador] = useState(0);
 
-  return (
+return (
     <View style={styles.container}>
       <Text style={styles.titulo}>Meu Primeiro App</Text>
       <Text style={styles.numero}>{contador}</Text>
