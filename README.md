@@ -12,3 +12,6 @@
 
 ##Abrir o código
 [Calculadora](/app/_layout.tsx)
+
+##Abrir o print
+[Print](./Print.png)
