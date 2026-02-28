@@ -5,7 +5,7 @@
 2. O sistema deve permitir a realização das operações de adição, subtração, multiplicação e divisão
 3. O sistema deve permitir operações com dois oui mais números
 4. O usuário deve conseguir visualizar as operações e limpar elas
-5. O sistem deve ter a documentação tendo o print da interface, listas dos requisitos e informações de funcionamento todas no readme.md
+5. O sistem deve ter a documentação tendo o print da interface, listas dos requisitos e o print da tela todos no readme.md
 
 ##Abrir o protótipo
 [Protótipo](./Prototipo.jpg)
