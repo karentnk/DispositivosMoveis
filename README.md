@@ -8,4 +8,7 @@
 5. O sistem deve ter a documentação tendo o print da interface, listas dos requisitos e informações de funcionamento todas no readme.md
 
 ##Abrir o protótipo
-[Abrir Protótipo](./Prototipo.jpg)
+[Protótipo](./Prototipo.jpg)
+
+##Abrir o código
+[Calculadora](/app/_layout.tsx)
