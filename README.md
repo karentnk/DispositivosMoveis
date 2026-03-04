@@ -7,11 +7,11 @@
 4. O usuário deve conseguir visualizar as operações e limpar elas
 5. O sistem deve ter a documentação tendo o print da interface, listas dos requisitos e o protótipo todos no readme.md
 
-### Abrir o protótipo
+#### Abrir o protótipo
 [Protótipo](./Prototipo.jpg)
 
-### Abrir o código
+#### Abrir o código
 [Calculadora](/app/_layout.tsx)
 
-##Abrir o print da tela da calculadora
+#### Abrir o print da tela da calculadora
 [Print](./Print.png)
